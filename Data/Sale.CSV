@@ -1,0 +1,81 @@
+oder_id,product_id,product_name,quantity,payment_state,departure_state
+S01,P001,Monitor,5,Paid,Dispatch
+S01,P002,UPS,2,Unpaid,Not Dispatch
+S02,P003,Mother Board,1,Paid,Dispatch
+S02,P004,Keyboard,10,Paid,Dispatch
+S02,P005,RAM,8,Unpaid,Not Dispatch
+S03,P006,SSD,4,Paid,Dispatch
+S03,P007,USB,20,Paid,Dispatch
+S04,P008,Mouse,15,Unpaid,Not Dispatch
+S04,P001,Monitor,3,Paid,Dispatch
+S04,P002,UPS,6,Paid,Dispatch
+S05,P003,Mother Board,2,Unpaid,Not Dispatch
+S05,P004,Keyboard,7,Paid,Dispatch
+S05,P005,RAM,12,Paid,Dispatch
+S05,P006,SSD,5,Unpaid,Not Dispatch
+S05,P007,USB,25,Paid,Dispatch
+S06,P008,Mouse,9,Paid,Dispatch
+S06,P001,Monitor,4,Unpaid,Not Dispatch
+S07,P002,UPS,1,Paid,Dispatch
+S07,P003,Mother Board,6,Paid,Dispatch
+S07,P004,Keyboard,8,Unpaid,Not Dispatch
+S08,P005,RAM,16,Paid,Dispatch
+S08,P006,SSD,3,Paid,Dispatch
+S09,P007,USB,30,Unpaid,Not Dispatch
+S09,P008,Mouse,11,Paid,Dispatch
+S09,P001,Monitor,9,Paid,Dispatch
+S09,P002,UPS,4,Unpaid,Not Dispatch
+S09,P003,Mother Board,5,Paid,Dispatch
+S10,P004,Keyboard,14,Paid,Dispatch
+S10,P005,RAM,10,Unpaid,Not Dispatch
+S10,P006,SSD,7,Paid,Dispatch
+S11,P007,USB,18,Paid,Dispatch
+S12,P008,Mouse,20,Unpaid,Not Dispatch
+S12,P001,Monitor,2,Paid,Dispatch
+S12,P002,UPS,3,Paid,Dispatch
+S13,P003,Mother Board,7,Unpaid,Not Dispatch
+S13,P004,Keyboard,6,Paid,Dispatch
+S13,P005,RAM,14,Paid,Dispatch
+S13,P006,SSD,9,Unpaid,Not Dispatch
+S14,P007,USB,22,Paid,Dispatch
+S14,P008,Mouse,5,Paid,Dispatch
+S15,P001,Monitor,11,Unpaid,Not Dispatch
+S15,P002,UPS,8,Paid,Dispatch
+S15,P003,Mother Board,4,Paid,Dispatch
+S15,P004,Keyboard,12,Unpaid,Not Dispatch
+S16,P005,RAM,18,Paid,Dispatch
+S16,P006,SSD,6,Paid,Dispatch
+S16,P007,USB,28,Unpaid,Not Dispatch
+S17,P008,Mouse,13,Paid,Dispatch
+S17,P001,Monitor,7,Paid,Dispatch
+S17,P002,UPS,5,Unpaid,Not Dispatch
+S18,P003,Mother Board,9,Paid,Dispatch
+S19,P004,Keyboard,15,Paid,Dispatch
+S19,P005,RAM,20,Unpaid,Not Dispatch
+S20,P006,SSD,8,Paid,Dispatch
+S20,P007,USB,35,Paid,Dispatch
+S20,P008,Mouse,17,Unpaid,Not Dispatch
+S21,P001,Monitor,6,Paid,Dispatch
+S21,P002,UPS,9,Paid,Dispatch
+S21,P003,Mother Board,3,Unpaid,Not Dispatch
+S22,P004,Keyboard,5,Paid,Dispatch
+S22,P005,RAM,9,Paid,Dispatch
+S23,P006,SSD,10,Unpaid,Not Dispatch
+S24,P007,USB,12,Paid,Dispatch
+S24,P008,Mouse,8,Paid,Dispatch
+S24,P001,Monitor,10,Unpaid,Not Dispatch
+S24,P002,UPS,7,Paid,Dispatch
+S25,P003,Mother Board,8,Paid,Dispatch
+S25,P004,Keyboard,9,Unpaid,Not Dispatch
+S26,P005,RAM,22,Paid,Dispatch
+S26,P006,SSD,11,Paid,Dispatch
+S27,P007,USB,40,Unpaid,Not Dispatch
+S27,P008,Mouse,19,Paid,Dispatch
+S27,P001,Monitor,8,Paid,Dispatch
+S28,P002,UPS,10,Unpaid,Not Dispatch
+S28,P003,Mother Board,10,Paid,Dispatch
+S28,P004,Keyboard,11,Paid,Dispatch
+S29,P005,RAM,24,Unpaid,Not Dispatch
+S29,P006,SSD,12,Paid,Dispatch
+S30,P007,USB,45,Paid,Dispatch
+S30,P008,Mouse,21,Unpaid,Not Dispatch

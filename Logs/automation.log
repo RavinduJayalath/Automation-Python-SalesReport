@@ -1,0 +1,28 @@
+2026-02-07 20:10:48,894 - INFO - Automation script started
+2026-02-07 20:10:48,898 - INFO - Data loaded successfully
+2026-02-07 20:10:48,898 - ERROR - Data Calculation failed: name 'sales_df' is not defined
+2026-02-07 20:11:33,783 - INFO - Automation script started
+2026-02-07 20:11:33,786 - INFO - Data loaded successfully
+2026-02-07 20:11:33,786 - ERROR - Data Calculation failed: name 'sales_df' is not defined
+2026-02-07 20:12:58,508 - INFO - Automation script started
+2026-02-07 20:12:58,512 - INFO - Data loaded successfully
+2026-02-07 20:12:58,512 - ERROR - Data Calculation failed: name 'sales' is not defined
+2026-02-07 20:16:24,055 - INFO - Automation script started
+2026-02-07 20:16:24,059 - INFO - Data loaded successfully
+2026-02-07 20:16:24,059 - ERROR - Data loading failed: name 'sales' is not defined
+2026-02-07 20:18:07,875 - INFO - Automation script started
+2026-02-07 20:18:07,879 - INFO - Data loaded successfully
+2026-02-07 22:23:04,475 - INFO - Automation script started
+2026-02-07 22:23:04,482 - INFO - Data loaded successfully
+2026-02-07 22:23:04,482 - ERROR - Data Calculation failed: name 'sales' is not defined
+2026-02-07 22:23:45,447 - INFO - Automation script started
+2026-02-07 22:23:45,450 - INFO - Data loaded successfully
+2026-02-07 22:23:45,476 - INFO - Data Calculation successfully
+2026-02-07 22:23:45,476 - ERROR - Report Generation failed: No module named 'xlsxwriter'
+2026-02-08 10:36:36,420 - INFO - Automation script started
+2026-02-08 10:36:36,423 - INFO - Data loaded successfully
+2026-02-08 10:36:36,452 - INFO - Data Calculation successfully
+2026-02-08 10:36:36,453 - ERROR - Report Generation failed: No module named 'xlsxwriter'
+2026-02-08 10:38:07,283 - INFO - Automation script started
+2026-02-08 10:38:07,286 - INFO - Data loaded successfully
+2026-02-08 10:38:07,297 - INFO - Data Calculation successfully
