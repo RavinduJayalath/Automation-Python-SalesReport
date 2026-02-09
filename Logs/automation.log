@@ -26,3 +26,87 @@
 2026-02-08 10:38:07,283 - INFO - Automation script started
 2026-02-08 10:38:07,286 - INFO - Data loaded successfully
 2026-02-08 10:38:07,297 - INFO - Data Calculation successfully
+2026-02-08 12:19:55,365 - INFO - Automation script started
+2026-02-08 12:19:55,368 - INFO - Data loaded successfully
+2026-02-08 12:19:55,383 - INFO - Data Calculation successfully
+2026-02-08 12:19:55,406 - ERROR - Report Generation failed: File is not a zip file
+2026-02-08 12:23:09,783 - INFO - Automation script started
+2026-02-08 12:23:09,786 - INFO - Data loaded successfully
+2026-02-08 12:23:09,800 - INFO - Data Calculation successfully
+2026-02-08 12:23:09,847 - INFO - Report generated successfully
+2026-02-08 13:40:13,210 - INFO - Automation script started
+2026-02-08 13:40:13,213 - INFO - Data loaded successfully
+2026-02-08 13:40:13,226 - INFO - Data Calculation successfully
+2026-02-08 13:40:13,227 - ERROR - Report Generation failed: [Errno 13] Permission denied: 'Reports/daily_report_2026-02-08.xlsx'
+2026-02-08 13:40:21,344 - INFO - Automation script started
+2026-02-08 13:40:21,347 - INFO - Data loaded successfully
+2026-02-08 13:40:21,361 - INFO - Data Calculation successfully
+2026-02-08 13:40:21,361 - ERROR - Report Generation failed: [Errno 13] Permission denied: 'Reports/daily_report_2026-02-08.xlsx'
+2026-02-08 13:41:13,833 - INFO - Automation script started
+2026-02-08 13:41:13,836 - INFO - Data loaded successfully
+2026-02-08 13:41:13,850 - INFO - Data Calculation successfully
+2026-02-08 13:41:13,918 - INFO - Report generated successfully with visible table names
+2026-02-08 13:43:08,281 - INFO - Automation script started
+2026-02-08 13:43:08,284 - INFO - Data loaded successfully
+2026-02-08 13:43:08,297 - INFO - Data Calculation successfully
+2026-02-08 13:43:08,297 - ERROR - Report generation failed: name 'os' is not defined
+2026-02-08 13:43:43,341 - INFO - Automation script started
+2026-02-08 13:43:43,344 - INFO - Data loaded successfully
+2026-02-08 13:43:43,357 - INFO - Data Calculation successfully
+2026-02-08 13:43:43,403 - INFO - Report generated successfully with visible table names and styled tables
+2026-02-08 13:45:20,098 - INFO - Automation script started
+2026-02-08 13:45:20,101 - INFO - Data loaded successfully
+2026-02-08 13:45:20,114 - INFO - Data Calculation successfully
+2026-02-08 13:45:20,171 - INFO - Report generated successfully with visible table names and styled tables
+2026-02-08 13:47:43,101 - INFO - Automation script started
+2026-02-08 13:47:43,104 - INFO - Data loaded successfully
+2026-02-08 13:47:43,119 - INFO - Data Calculation successfully
+2026-02-08 13:47:43,162 - INFO - Report generated successfully
+2026-02-08 14:01:20,770 - INFO - Automation script started
+2026-02-08 14:01:20,773 - INFO - Data loaded successfully
+2026-02-08 14:01:20,787 - INFO - Data Calculation successfully
+2026-02-08 14:01:20,828 - INFO - Report generated successfully
+2026-02-08 14:45:18,221 - INFO - Automation script started
+2026-02-08 14:45:18,224 - INFO - Data loaded successfully
+2026-02-08 14:45:18,235 - INFO - Data Calculation successfully
+2026-02-08 14:45:18,236 - ERROR - Report Generation failed: [Errno 13] Permission denied: 'Reports/daily_report_2026-02-08.xlsx'
+2026-02-08 14:46:16,009 - INFO - Automation script started
+2026-02-08 14:46:16,012 - INFO - Data loaded successfully
+2026-02-08 14:46:16,025 - INFO - Data Calculation successfully
+2026-02-08 14:46:16,072 - INFO - Report generated successfully
+2026-02-08 14:52:22,434 - INFO - Automation script started
+2026-02-08 14:52:22,437 - INFO - Data loaded successfully
+2026-02-08 14:52:22,448 - INFO - Data Calculation successfully
+2026-02-08 14:52:22,504 - INFO - Report generated successfully
+2026-02-08 14:54:15,265 - INFO - Automation script started
+2026-02-08 14:54:15,268 - INFO - Data loaded successfully
+2026-02-08 14:54:15,279 - INFO - Data Calculation successfully
+2026-02-08 14:54:15,336 - INFO - Report generated successfully
+2026-02-08 14:56:39,776 - INFO - Automation script started
+2026-02-08 14:56:39,779 - INFO - Data loaded successfully
+2026-02-08 14:56:39,790 - INFO - Data Calculation successfully
+2026-02-08 14:56:39,838 - INFO - Report generated successfully
+2026-02-08 14:59:42,021 - INFO - Automation script started
+2026-02-08 14:59:42,024 - INFO - Data loaded successfully
+2026-02-08 14:59:42,035 - INFO - Data Calculation successfully
+2026-02-08 14:59:42,084 - INFO - Report generated successfully
+2026-02-08 15:01:20,158 - INFO - Automation script started
+2026-02-08 15:01:20,162 - INFO - Data loaded successfully
+2026-02-08 15:01:20,174 - INFO - Data Calculation successfully
+2026-02-08 15:01:20,232 - INFO - Report generated successfully
+2026-02-08 15:02:42,634 - INFO - Automation script started
+2026-02-08 15:02:42,637 - INFO - Data loaded successfully
+2026-02-08 15:02:42,651 - INFO - Data Calculation successfully
+2026-02-08 15:02:42,699 - INFO - Report generated successfully
+2026-02-09 12:38:02,934 - INFO - Automation script started
+2026-02-09 12:38:02,941 - INFO - Data loaded successfully
+2026-02-09 12:38:02,953 - INFO - Data Calculation successfully
+2026-02-09 12:38:03,012 - INFO - Report generated successfully
+2026-02-09 12:59:06,622 - INFO - Automation script started
+2026-02-09 12:59:06,625 - INFO - Data loaded successfully
+2026-02-09 12:59:06,635 - INFO - Data calculation successful
+2026-02-09 12:59:06,700 - INFO - Report generated successfully
+2026-02-09 12:59:18,468 - INFO - Automation script started
+2026-02-09 12:59:18,471 - INFO - Data loaded successfully
+2026-02-09 12:59:18,481 - INFO - Data calculation successful
+2026-02-09 12:59:18,554 - INFO - Report generated successfully
