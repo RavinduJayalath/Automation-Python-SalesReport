@@ -1,2 +1,11 @@
-# Automation-Python-SalesReport
-Automation script that create sales summery reports and send via email automatically.
+Environment Setup
+
+    python -m ensurepip --upgrade
+    python -m pip install --upgrade pip
+
+    python -m pip install pandas
+    python -m pip install reportlab
+    python -m pip install matplotlib openpyxl xlsxwriter
+
+
+
